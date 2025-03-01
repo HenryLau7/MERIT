@@ -3,7 +3,7 @@
 Welcome! This repository provides the official implementation of our two papers:
 
 **MERIT: Multi-view Evidential Learning for Reliable and Interpretable Liver Fibrosis Staging**  
-Published in Medical Image Analysis, 2025 [[Arxiv]](https://arxiv.org/abs/2405.02918)
+Published in Medical Image Analysis, 2025 [[MedIA]](https://www.sciencedirect.com/science/article/pii/S1361841525000556) [[Arxiv]](https://arxiv.org/abs/2405.02918)  
 
 **A Reliable and Interpretable Framework of Multi-view Learning for Liver Fibrosis Staging**  
 Published in International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2023. **(Oral and nomination for Young Scientist Award and Best paper award)** [[MICCAI]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_18)
@@ -13,7 +13,7 @@ Published in International Conference on Medical Image Computing and Computer-As
 ---
 
 ## 🚀 News
-- **Feb 11, 2025**  
+- **Feb 12, 2025**  
   MERIT accepted by *Medical Image Analysis* (IF=10.7).
 - **Sept 20, 2023**  
   MICCAI paper selected as a candidate for **Best Paper** and **Young Scientist Award**.
@@ -96,10 +96,15 @@ If you find our code useful, please cite our paper as follows:
 
 ```bibtex
 @article{liu2025merit,
-  title={MERIT: Multi-view Evidential Learning for Reliable and Interpretable Liver Fibrosis Staging},
+  title = {MERIT: Multi-view evidential learning for reliable and interpretable liver fibrosis staging},
   author={Liu, Yuanye and Gao, Zheyao and Shi, Nannan and Wu, Fuping and Shi, Yuxin and Chen, Qingchao and Zhuang, Xiahai},
-  journal={Medical Image Analysis},
-  year={2025}
+  journal = {Medical Image Analysis},
+  volume = {102},
+  pages = {103507},
+  year = {2025},
+  issn = {1361-8415},
+  doi = {https://doi.org/10.1016/j.media.2025.103507},
+  url = {https://www.sciencedirect.com/science/article/pii/S1361841525000556},
 }
 
 @inproceedings{gao2023reliable,
